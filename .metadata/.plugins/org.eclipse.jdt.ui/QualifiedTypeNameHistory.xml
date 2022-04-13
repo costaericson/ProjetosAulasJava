@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="oo.composicao.Motor"/>
+    <fullyQualifiedTypeName name="oo.composicao.Carro"/>
+    <fullyQualifiedTypeName name="oo.composicao.Compra"/>
+    <fullyQualifiedTypeName name="oo.composicao.Item"/>
+    <fullyQualifiedTypeName name="Collections.Lista"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="Entidadeds.Triangulo"/>
+    <fullyQualifiedTypeName name="Application.ProdutoEstoque"/>
+    <fullyQualifiedTypeName name="Entidadeds.Retangulo"/>
+    <fullyQualifiedTypeName name="Entidadeds.Salario"/>
+    <fullyQualifiedTypeName name="Entidadeds.Dolar"/>
+    <fullyQualifiedTypeName name="Entidadeds.Produto"/>
+    <fullyQualifiedTypeName name="Application.ContaCliente"/>
+    <fullyQualifiedTypeName name="Entidadeds.ContaBancaria"/>
+    <fullyQualifiedTypeName name="ProgramasPorfora.Ex1Array"/>
+    <fullyQualifiedTypeName name="Entidadeds.ProdutospVetores"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Entidadeds.QuartosPPensionatos"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="Application.EmpregadoLista"/>
+    <fullyQualifiedTypeName name="Entidadeds.Empregado"/>
+</qualifiedTypeNameHistroy>

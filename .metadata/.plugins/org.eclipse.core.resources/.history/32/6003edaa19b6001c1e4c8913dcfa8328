@@ -1,0 +1,37 @@
+package CoisasPorFora;
+
+import java.util.Scanner;
+
+public class WhileEFor {
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		System.out.println("TABUADAS!!!");
+		System.out.println("DESEJA VER UMA TABUADA ? [S OU N] ");
+		String decisao = in.next();
+		
+		while (decisao.equalsIgnoreCase("s")) {
+			System.out.println("RESPOSTA: " + decisao);
+			System.out.println("TABUADA DE: ");
+			int n = in.nextInt();
+			System.out.printf("%d x 1 = ", n + (n*1));
+			System.out.println();
+			System.out.println();
+			System.out.println();
+			System.out.println();
+			System.out.println();
+			System.out.println();
+			
+			decisao = in.next();
+			
+		}
+		
+		
+		
+		
+		
+		
+		
+		in.close();
+	}
+
+}
